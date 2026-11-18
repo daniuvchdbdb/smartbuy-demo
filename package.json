@@ -1,0 +1,1 @@
+{"name":"smartbuy","private":true,"scripts":{"mobile":"npm --prefix apps/mobile start","admin":"npm --prefix apps/admin run dev","admin:build":"npm --prefix apps/admin run build","typecheck:mobile":"npm --prefix apps/mobile exec tsc -- --noEmit","typecheck:admin":"npm --prefix apps/admin run typecheck"}}
